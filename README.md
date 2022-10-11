@@ -1,3 +1,13 @@
+# Ejercicio sesiones 19-21 React intermedio OpenBootcamp
+
+Hacer una petición HTTP con Axios a la API descrita en la web https://api.chucknorris.io/ y crear un Componente React capaz de generar chistes aleatorios de Chuck Norris y mostrarlos.
+
+Debe haber un botón que permita al usuario generar nuevos chistes.
+
+También debe mostrarse un par de botones con Material UI que permitan votar (positivamente o negativamente un chiste).
+
+Se debe mostrar el número de chistes te "han gustado" y cuántos "te han disgustado".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
